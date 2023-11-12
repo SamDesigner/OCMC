@@ -5,7 +5,7 @@
         Recognised Globally For Exceptional Services In Public Procurement
       </p>
       <div class="scrolling-images">
-        <img class="fit_cover" src="img/company-one.png" />
+        <img class="fit_cover" src="img/companyone.png" />
         <img class="fit_cover" src="img/company-two.png" />
         <img class="fit_cover" src="img/company-three.png" />
         <img class="fit_cover" src="img/company-four.png" />
